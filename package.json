@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/truffle-box/drizzle-box#readme",
   "dependencies": {
+    "ganache-cli": "^6.4.4",
     "openzeppelin-solidity": "^2.1.1",
     "redux-saga": "^1.0.1"
   }
